@@ -1,0 +1,14 @@
+"I Forgot" is Freeware and may be distributed as long as no fee is charged for
+it, and the files "readme.txt", "license.txt", "PasswdHook.dll", "I Forgot.exe", and
+"example.jpg" are included. "I Forgot" may not be placed on any servers where an
+access fee is charged in order to access the server so that this program may be obtained.
+"I Forgot" may not be placed on any mass distributed media without explicit, prior,
+written consent of the author of the program. If you are unsure about whether or not
+you can host this program, contact the author.
+
+The end user of I Forgot shall not hold the author of this program liable for
+any damages, whether directly and/or indirectly, incurred by the use of this
+program. The author makes no warranties or claims that "I Forgot" works.
+"I Forgot" and it's included files may not be modified in anyway.
+
+Nicodareus <nicodareus@hotmail.com>
